@@ -1,0 +1,7 @@
+I know this can be inspected
+because this is a public repository, 
+but I want to let you know 
+that I use this repository for practice 
+lab activities before lab sessions. 
+
+forTeachers®
